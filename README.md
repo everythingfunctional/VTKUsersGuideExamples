@@ -1,4 +1,1 @@
-VTKUsersGuideExamples
-=====================
-
-The examples in the VTK Users Guide translated into python
+This project has moved to https://gitlab.com/everythingfunctional/VTKUsersGuideExamples
